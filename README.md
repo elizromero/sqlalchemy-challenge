@@ -6,5 +6,7 @@ Project Structure
 Part 1: Analyze and Explore the Climate Data (SurfsUp > climate_starter)
 Conduct a precipitation analysis.
 Perform a station analysis to identify the most active weather stations.
+
+
 Part 2: Design Your Climate App (app.py)
 Create a Flask API with endpoints for climate-related data.
